@@ -7,8 +7,9 @@ setup
 
 libraries
 ===================================================
-JDK 1.8
-Junit (managed through pom.xml)
-Log4j (managed through pom.xml)
-Google Collection Query Engine (managed through pom.xml). More info @ https://github.com/npgall/cqengine
+1. JDK 1.8
+2. Junit (managed through pom.xml)
+3. Log4j (managed through pom.xml)
+4. Google Collection Query Engine (managed through pom.xml). More info @ https://github.com/npgall/cqengine
+
 
